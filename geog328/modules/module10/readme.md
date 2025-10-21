@@ -1,1 +1,0 @@
-https://docs.mapbox.com/mapbox-gl-js/example/add-image/
