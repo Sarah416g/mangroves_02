@@ -1,8 +1,10 @@
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(50, 15, 227);
   overflow: hidden;
+  box-shadow: 2px 6px rgb(66, 29, 161);
 }
+
 
 /* Style the links inside the navigation bar */
 .topnav a {
@@ -26,6 +28,8 @@
   background-color: #002fff;
   color: white;
 }
+
+
 
 /* Hide the icon that should open and close the topnav on small screens */
 .topnav .icon {
